@@ -1,6 +1,6 @@
 #include<iostream>
 #include<bits/stdc++.h>
-// #include "arr.cpp"
+#include "arr.cpp"
 #include "linked.cpp"
 using namespace std;
 
